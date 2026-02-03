@@ -19,7 +19,7 @@
 
 ### 🛠 Tech Stack & Tools
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://dev-ashutosh.netlify.app/)
+
 
 | **Category**           | **Technologies** |
 |------------------------|-----------------|
